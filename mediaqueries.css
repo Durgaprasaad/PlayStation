@@ -1,0 +1,770 @@
+/* media queries  */
+
+@media screen and (max-width:1024px) {
+    .navbar1{
+        width: 100vw;
+    }
+    .navbar1>img{
+        margin-left: 90vw;
+    }
+    .navbar2{
+        width: 100vw;
+    }
+    .carousel{
+        width: 100vw;
+    }
+
+    .sign-in-btn{
+        margin-left: 20vw;
+    }
+
+    .skks img{
+        height: 100px;
+        width: 200px;
+        display: inline;
+    }
+
+    .intro-container{
+        width: 90vw;
+        height: 250px;
+
+    }
+    .intro-container2{
+           width: 90vw;
+           height: 250px;
+    }
+
+
+
+    .caption h1{
+        font-size: 30px;
+    }
+
+    .caption h3{
+        font-size: 15px;
+    }
+
+    .caption button{
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .console-img img{
+        height: 200px;
+        width: 450px;
+        
+    }
+
+    .console-img2 img{
+        height: 200px;
+        width: 450px;
+
+    }
+    .console-img2{
+        margin-left:50vw;
+        position: absolute;
+    }
+
+
+
+    .console-img {
+       margin-left:50vw;
+       position: absolute;
+    }
+
+    .intro-container2{
+
+    }
+
+    .accessories-container{
+        width: 100vw;
+        /* margin-left: 10px; */
+    }
+
+    #other-accessories{
+        text-align: center;
+        width: 100vw;
+    }
+
+    .container-1 img{
+        height: 100px;
+        width: 100px;
+        /* gap: 50px; */
+        flex-wrap: wrap;
+    }
+    .container-1{
+        /* margin-left: -80px; */
+    }
+
+    main{
+        width: 100vw;
+    }
+
+    .new-releases{
+        width: 100vw;
+        height: 220vh;
+    }
+    #new-releases-height{
+        
+    }
+
+    .accessories-container .container-1 img{
+        height: 140px;
+        width: 140px;
+    }
+
+    #new-releases-box{
+        /* margin-left: 50px; */
+    }
+    #accessories-container2{
+        /* margin-left: 50px; */
+    }
+
+    #heading-nr{
+        text-align: center;
+    }
+
+    #btn-new-releases{
+        /* margin-left: 55vw; */
+    }
+
+    #accessories-container3{
+        /* margin-left: 50px; */
+    }
+    #accessories-container4{
+        /* margin-left: 50px; */
+    }
+
+    .play-station-plus{
+        width: 100vw;
+    }
+
+    .plus-img3, .plus-img1, .plus-img4 , .plus-img2 {
+        width: 40vw;
+        
+    }
+
+    .images-this-month img{
+        height: 150px;
+        width: 280px;
+    }
+
+    .merchandise-imgs-bottom img{
+        height: 250px;
+        width: 450px;
+    }
+     
+    .merchandise{
+        height: 150vh;
+    }
+
+    .img-conatainer-scl img{
+        height: 100px;
+        width: 100px;
+    }
+
+    .socials-h3{
+        font-size: 25px;
+    }
+
+    table tr th,td{
+        padding-left: 15px;
+        font-size: 15px;
+    }
+     
+    #sony-ent-logo{
+        height: 80px;
+        width: 200px;
+    }
+
+    #sony-logo-para{
+        font-size: 12px;
+    }
+
+    #para-footer{
+        font-size: 10px;
+        
+    }
+
+    /* .btn{
+        font-size: 14px;
+    }
+
+    .btn-primary{
+        font-size: 12px;
+    } */
+}
+
+/* media queries  */
+
+@media screen and  (max-width:768px) {
+    .navbar1{
+        width: 124vw;
+    }
+    .navbar1>img{
+        margin-left: 112vw;
+    }
+    .navbar2{
+        width: 124vw;
+    }
+    .carousel{
+        width: 124vw;
+    }
+
+    .sign-in-btn{
+        margin-left: 20vw;
+    }
+
+    .skks img{
+        height: 80px;
+        width: 150px;
+        display: inline;
+    }
+
+    .intro-container{
+        width: 90vw;
+        height: 250px;
+
+    }
+    .intro-container2{
+           width: 90vw;
+           height: 250px;
+    }
+
+
+
+    .caption h1{
+        font-size: 30px;
+    }
+
+    .caption h3{
+        font-size: 15px;
+    }
+
+    .caption button{
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .console-img img{
+        height: 200px;
+        width: 450px;
+        
+    }
+
+    .console-img2 img{
+        height: 200px;
+        width: 450px;
+
+    }
+    .console-img2{
+        margin-left:50vw;
+        position: absolute;
+    }
+
+
+
+    .console-img {
+       margin-left:50vw;
+       position: absolute;
+    }
+
+    .intro-container2{
+
+    }
+
+    .accessories-container{
+        width: 124vw;
+        /* margin-left: 10px; */
+    }
+
+    #other-accessories{
+        text-align: center;
+        width: 124vw;
+    }
+
+    .container-1 img{
+        height: 100px;
+        width: 100px;
+        /* gap: 50px; */
+        flex-wrap: wrap;
+    }
+    .container-1{
+        /* margin-left: -80px; */
+    }
+
+    main{
+        width: 124vw;
+    }
+
+    .new-releases{
+        width: 124vw;
+        height: 220vh;
+    }
+    #new-releases-height{
+        
+    }
+
+    .accessories-container .container-1 img{
+        height: 140px;
+        width: 140px;
+    }
+
+    #new-releases-box{
+        /* margin-left: 50px; */
+    }
+    #accessories-container2{
+        /* margin-left: 50px; */
+    }
+
+    #heading-nr{
+        text-align: center;
+    }
+
+    #btn-new-releases{
+        /* margin-left: 55vw; */
+    }
+
+    #accessories-container3{
+        /* margin-left: 50px; */
+    }
+    #accessories-container4{
+        /* margin-left: 50px; */
+    }
+
+    .play-station-plus{
+        width: 124vw;
+    }
+
+    .plus-img3, .plus-img1, .plus-img4 , .plus-img2 {
+        width: 40vw;
+        
+    }
+
+    .images-this-month img{
+        height: 150px;
+        width: 280px;
+    }
+
+    .merchandise-imgs-bottom img{
+        height: 250px;
+        width: 450px;
+    }
+     
+    .merchandise{
+        height: 150vh;
+        width: 124vw;
+    }
+
+    .socials{
+        width: 124vw;
+    }
+
+    #socials-h3{
+        text-align: center;
+    }
+
+    .img-conatainer-scl img{
+        height: 150px;
+        width: 150px;
+    }
+
+    .footer{
+        width: 124vw;
+        height: 110vh;
+    }
+
+    .img-conatainer-scl{
+        width: 120vw;
+        margin-left: 20px;
+    }
+
+    .socials-h3{
+        font-size: 25px;
+    }
+
+    table tr th,td{
+        padding-left: 15px;
+        font-size: 15px;
+    }
+    
+    #images-this-month-cozy{
+        margin-left: 20px;
+    }
+     
+    #sony-ent-logo{
+        height: 80px;
+        width: 200px;
+    }
+
+    #sony-logo-para{
+        font-size: 12px;
+    }
+
+    #para-footer{
+        font-size: 10px;
+        
+    }
+
+    .this-month-ps{
+        width: 124vw;
+    }
+
+    .carousel-inner{
+        /* he: 20vh; */
+    }
+
+    .merchandise{
+        height: 130vh;
+    }
+
+    #merch-img, #merch-img2, #merch-img3 ,#merch-img4{
+        height: 200px;
+        width: 400px;
+    }     
+
+    .footer-content hr{
+        width: 110vw;
+    margin-left: 7vw;
+    }
+     
+
+
+}
+
+@media screen and   (max-width:426px){
+    .navbar1{
+        /* width: 850vw; */
+        /* z-index: -800; */
+        display: none;
+    }
+    
+    .dropdown{
+        display: none;
+    }
+
+    .navbar2{
+        width: 288vw;
+        height: 150px !important;
+    }
+     
+    #navbar2-img{
+       display: none;
+    }
+
+    #navbar2-img2{
+        display: inline;
+        margin: 10px 0px 0px 110vw;
+        height: 100px;
+        width: 120px;
+       position: relative;
+    }
+
+    /* .navbar2 i{
+        display: inline;
+        
+        margin-top: 40px;
+    
+        margin-right: 505px;
+    } */
+
+    #icon-1{
+        display: inline;
+        font-size: 80px;
+        color: #0070CC;
+        margin-left: 10px;
+        margin-top: 20px;
+        position: absolute;
+    }
+
+    #icon-2{
+        display: inline;
+        font-size: 80px;
+        color: #0070CC;
+        margin-left: 140px;
+        margin-top: 20px;
+        position: absolute;
+    }
+    
+
+    .sign-in-btn{
+        display: inline;
+        height: 80px;
+        width: 140px;
+        font-size: 28px;
+        border-radius: 40px;   
+        margin-left: 80vw;  
+        margin-top: 40px;  
+        position: absolute;
+    }
+
+    .button-hide{
+        display: inline;
+    }
+
+
+    .carousel-inner{
+        margin-top: 8vh;
+        width: 288vw !important;
+        /* height: 100vh !important; */
+        position: absolute;
+    }
+
+    #spidermannnn{
+        /* background: url(./images/spider-man.avif); */
+        background-position: center !important;
+        background-size: contain !important;
+    }
+
+    #uncharted{
+        /* background-image: url(./images/Uncharted.avif); */
+        background-position:center !important ;
+        background-size: cover !important;
+        /* transform: scaleY(2); */
+        /* transform: scaleX(1); */
+    }
+    
+    #fortnite{
+        background-image: url(./images/blue-fortnite-desktop-hd-j1oac9i1pg3a0l7d.jpg);
+        background-position:center  !important;
+        background-size:cover !important ;
+       margin-top: 40vw !important;
+    }
+    
+    #god-of-war{
+        background-image: url(./images/20474415.jpg);
+        background-position:center !important ;
+        background-size:cover !important ;
+       
+    }
+       
+    #carousel-control-next-btn .carousel-control-next-icon{
+        margin-left: 270vw !important;
+        position: absolute;
+        background-color: blue;
+    }
+
+    .skks{
+        display: none;
+    }
+
+    .intro-container{
+        
+    }
+
+    .intro-container{
+        width: 280vw;
+        height: 350px;
+
+    }
+    .intro-container2{
+           width: 280vw;
+           height: 350px;
+    }
+
+
+
+    .caption h1{
+        font-size: 45px;
+    }
+
+    .caption h3{
+        font-size: 25px;
+    }
+
+    .caption button{
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .console-img img{
+        height: 350px;
+        width: 550px;
+        margin-left: 50vw;
+        
+    }
+
+    .console-img2 img{
+        height: 350px;
+        width: 500px;
+        margin-left: 50vw;
+
+    }
+    .console-img2{
+        margin-left:50vw;
+        position: absolute;
+    }
+
+
+
+    .console-img {
+       margin-left:50vw;
+       position: absolute;
+    }
+
+    .intro-container2{
+        width: 280vw;
+    }
+
+    .accessories-container{
+        width: 280vw;
+        /* margin-left: 10px; */
+    }
+
+    #other-accessories{
+        text-align: center;
+        width: 124vw;
+    }
+
+    .container-1 img{
+        height: 100px;
+        width: 100px;
+        /* gap: 50px; */
+        flex-wrap: wrap;
+    }
+    .container-1{
+        /* margin-left: -80px; */
+    }
+
+    main{
+        width: 124vw;
+    }
+
+    .new-releases{
+        width: 280vw;
+        height: 220vh;
+    }
+    #new-releases-height{
+        
+    }
+
+    .accessories-container .container-1 img{
+        height: 140px;
+        width: 140px;
+    }
+
+    #new-releases-box{
+        /* margin-left: 50px; */
+    }
+    #accessories-container2{
+        /* margin-left: 50px; */
+    }
+
+    #heading-nr{
+        text-align: center;
+    }
+
+    #btn-new-releases{
+        /* margin-left: 55vw; */
+    }
+
+    #accessories-container3{
+        /* margin-left: 50px; */
+    }
+    #accessories-container4{
+        /* margin-left: 50px; */
+    }
+
+    .play-station-plus{
+        width: 280vw;
+    }
+
+    .plus-img3, .plus-img1, .plus-img4 , .plus-img2 {
+        width: 40vw;
+        
+    }
+
+    .images-this-month img{
+        height: 150px;
+        width: 280px;
+    }
+
+    .merchandise-imgs-bottom img{
+        height: 250px;
+        width: 450px;
+    }
+     
+    .merchandise{
+        height: 150vh;
+        width: 280vw;
+    }
+
+    .socials{
+        width: 280vw;
+    }
+
+    #socials-h3{
+        text-align: center;
+    }
+
+    .img-conatainer-scl img{
+        height: 150px;
+        width: 150px;
+    }
+
+    .footer{
+        width: 280vw;
+        height: 110vh;
+    }
+
+    .img-conatainer-scl{
+        width: 120vw;
+        margin-left: 20px;
+    }
+
+    .socials-h3{
+        font-size: 25px;
+    }
+
+    table tr th,td{
+        padding-left: 15px;
+        font-size: 15px;
+    }
+    
+    #images-this-month-cozy{
+        margin-left: 20px;
+    }
+     
+    #sony-ent-logo{
+        height: 80px;
+        width: 200px;
+    }
+
+    #sony-logo-para{
+        font-size: 12px;
+    }
+
+    #para-footer{
+        font-size: 10px;
+        
+    }
+
+    .this-month-ps{
+        width: 280vw;
+    }
+
+    .carousel-inner{
+        /* he: 20vh; */
+    }
+
+    .merchandise{
+        height: 130vh;
+    }
+
+    #merch-img, #merch-img2, #merch-img3 ,#merch-img4{
+        height: 200px;
+        width: 400px;
+    }     
+
+    .footer-content hr{
+        width: 110vw;
+    margin-left: 7vw;
+    }
+     
+
+
+
+    
+
+
+}
